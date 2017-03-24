@@ -7,3 +7,6 @@ target 'FBAnnotationClusteringSwift_Example' do
 	pod 'FBAnnotationClusteringSwift’, :path => '../'
 end
 
+target 'FBAnnotationClusteringSwift_Tests' do
+    pod 'FBAnnotationClusteringSwift’, :path => '../'
+end
